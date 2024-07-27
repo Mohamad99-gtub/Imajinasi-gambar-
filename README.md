@@ -2,7 +2,7 @@
 
 This is a project by Mohamad Abubakar. Let's build something awesome together! 😎
 
-![Cool Emoji](https://example.com/path-to-your-image-or-graphic.jpg)
+![Cool Emoji](https://path-to-your-image.com/cool-emoji.png)
 
 <p align="center">
   <a href="https://github.com/Mohamad99-gtub/Sosial-media-"><img src="https://img.shields.io/badge/GitHub-JeeyStore-blue" alt="GitHub"></a>
