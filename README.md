@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GitHubDaily/GitHubDaily/master/assets/githubdaily_brand.png">
-</p>
+# Welcome to My Project
+
+This is a project by Mohamad Abubakar. Let's build something awesome together! 😎
+
+![Cool Emoji](https://example.com/path-to-your-image-or-graphic.jpg)
 
 <p align="center">
   <a href="https://github.com/Mohamad99-gtub/Sosial-media-"><img src="https://img.shields.io/badge/GitHub-JeeyStore-blue" alt="GitHub"></a>
